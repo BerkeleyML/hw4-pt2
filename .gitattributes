@@ -1,0 +1,2 @@
+data/urbansound8k_fold1_train.zip filter=lfs diff=lfs merge=lfs -text
+data/urbansound8k_test.zip filter=lfs diff=lfs merge=lfs -text
